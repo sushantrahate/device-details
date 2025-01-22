@@ -1,0 +1,25 @@
+{
+  "name": "device-details",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./public/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantrahate/device-details.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantrahate/device-details/issues"
+  },
+  "homepage": "https://github.com/sushantrahate/device-details#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.10",
+    "tailwindcss": "^3.4.17"
+  }
+}
